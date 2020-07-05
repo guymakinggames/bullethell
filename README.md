@@ -1,7 +1,8 @@
-# bullethell
+# Bullet Hell
+
 A full Unity3D Example project, published on the Google Play Store at https://play.google.com/store/apps/details?id=com.gmg.bullet.
 
-This project was fully developed on stream at https://www.twitch.tv/guymakinggames
+This project was fully developed on stream at https://www.twitch.tv/realgmg
 
 The code overview is also available on Youtube at https://www.youtube.com/channel/UCr_hDk1LLtuhkzt0goR95Rw?view_as=subscriber
 
